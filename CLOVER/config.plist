@@ -216,9 +216,9 @@
 		<key>Audio</key>
 		<dict>
 			<key>AFGLowPowerState</key>
-			<false/>
+			<true/>
 			<key>Inject</key>
-			<integer>3</integer>
+			<integer>1</integer>
 			<key>ResetHDA</key>
 			<true/>
 		</dict>
