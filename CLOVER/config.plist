@@ -590,7 +590,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02751301QXJ0DXJC</string>
+		<string>C02653802CDJ0DXAD</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -620,9 +620,9 @@
 		<key>ProductName</key>
 		<string>iMac18,2</string>
 		<key>SerialNumber</key>
-		<string>C02VVWYDJ1G5</string>
+		<string>C02T1UY3J1G5</string>
 		<key>SmUUID</key>
-		<string>8C310B46-6D4B-42B0-BED1-1002722DD8CE</string>
+		<string>C07A300D-EB2F-420D-B761-6FE571D94160</string>
 		<key>Trust</key>
 		<true/>
 		<key>Version</key>
